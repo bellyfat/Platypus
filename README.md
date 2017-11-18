@@ -2,6 +2,8 @@
 
 # Platypus
 
+[![Faircode](https://faircode.io/product/Platypus/badge)](https://faircode.io/product/Platypus?utm_source=badge&utm_medium=badgelarge&utm_campaign=Platypus)
+
 [Live Stable Branch](https://status.ggserv.xyz)
 
 Active online and usage monitor using websockets and Python
